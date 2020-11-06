@@ -1,0 +1,40 @@
+{
+  "name": "BenkSwap",
+  "logoURI": "https://raw.githubusercontent.com/BenkSwap/token-list/main/benk.png",
+  "keywords": [
+    "benkswap",
+    "defi"
+  ],
+  "timestamp": "2020-09-03T12:37:57.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xb7ec699f457607efb437ab6196fc4982a6679d4a",
+      "name": "Benk Finance Token",
+      "symbol": "BENK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BenkSwap/token-list/main/benk.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd3f716569d9f002ac4615a64fdeae6912cceca3",
+      "name": "Bull Token",
+      "symbol": "BULL",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/BenkSwap/token-list/main/bull.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
